@@ -3,7 +3,10 @@
 <h3 align="start">Desenvolvedor web</h3>
 <h3 align="start">Estudante do 6º período de Ciência da Computação na UFRPE</h3>
 
+- 🌐 Desenvolvedor do site do <a href="https://museudesolospe.com" target="_blank" rel="noreferrer">Museu de Solos de Pernambuco</a>.
 - 📫 Contato **anthony.guerra@ufrpe.br // formalanthonyefraim@gmail.com**
+
+<h3 align="left">💻 Linguagens e ferramentas:</h3>
 
 <h3 align="left">💻 Linguagens e ferramentas:</h3>
 <p align="left"> 
