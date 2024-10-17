@@ -7,8 +7,6 @@
 - 📫 Contato **anthony.guerra@ufrpe.br // formalanthonyefraim@gmail.com**
 
 <h3 align="left">💻 Linguagens e ferramentas:</h3>
-
-<h3 align="left">💻 Linguagens e ferramentas:</h3>
 <p align="left"> 
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
