@@ -1,7 +1,7 @@
 <h1 align="start">Anthony Guerra</h1>
 
 <h3 align="start">Desenvolvedor Web</h3>
-<h3 align="start">Estudante do 6º período de Ciência da Computação na UFRPE</h3>
+<h3 align="start">Estudante do 9º período de Ciência da Computação na UFRPE</h3>
 
 - 🌐 Desenvolvedor do site do <a href="https://museudesolospe.com" target="_blank" rel="noreferrer">Museu de Solos de Pernambuco</a>.
 - 📫 Contato **anthony.guerra@ufrpe.br // formalanthonyefraim@gmail.com**
