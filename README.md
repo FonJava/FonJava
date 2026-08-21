@@ -47,4 +47,4 @@
 </a>
 </p>
 
-
+![FonJava's Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=FonJava&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
