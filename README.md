@@ -38,6 +38,13 @@
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> 
   </a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="firebase" width="40" height="40"/> 
+</a>
+
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/> 
+</a>
 </p>
 
 ![FonJava's Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=FonJava&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
